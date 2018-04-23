@@ -10,9 +10,9 @@ Students will learn how to communicate and think conditionally. Students will le
 2.  Students can only match up with another student once.
 3.  Students will have to think about how they are going to write their conditional statements. What operators should they use, how are they going to make the comparisons, etc.
 4.  Students should have the freedom to think about how they are going to approach the activity.
-    Options:
-    * Students can gather all their data first then start coding.
-    * Students can gather data and code one exercise at a time, then move onto the next exercise.
+    - Options:
+        * Students can gather all their data first then start coding.
+        * Students can gather data and code one exercise at a time, then move onto the next exercise.
 
 ### Exercises
 
