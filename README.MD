@@ -32,42 +32,42 @@ else:
   print('No friends. No problems. More ice-cream.')
 ```
 
-1a. Find someone that is the same grade level as you.
-1b. Write a conditional statement that prints out `" _____ is my friend because we are in the same grade level."`
+1a. Find someone that is the same grade level as you.<br>
+1b. Write a conditional statement that prints out `" _____ is my friend because we are in the same grade level."`<br>
 1c. To control a false value print out `"I am a lone wolf."`.
 
-2a. Find someone who's first name starts with the last letter of your first name.
-2b. Write a conditional statement that prints out `"_____ is my friend because their first name starts with the last letter of my first name."`
+2a. Find someone who's first name starts with the last letter of your first name.<br>
+2b. Write a conditional statement that prints out `"_____ is my friend because their first name starts with the last letter of my first name."`<br>
 2c. To control a false value print out `"I hope, skip, and jump all by myself."`.
 
-3a. Find someone who is wearing the same color shirt as you.
-3b. Write a conditional statement that prints out `"_____ is my friend because we're wearing the same colored shirt"`
+3a. Find someone who is wearing the same color shirt as you.<br>
+3b. Write a conditional statement that prints out `"_____ is my friend because we're wearing the same colored shirt"`<br>
 3c. To control a false value print out `"Style so unique, I can't be duplicated."`.
 
-4a. Find someone who is not the same age as you.
-4b. Write a conditional statement that prints out `"_____ is my friend because we are not the same age."`
+4a. Find someone who is not the same age as you.<br>
+4b. Write a conditional statement that prints out `"_____ is my friend because we are not the same age."`<br>
 4c. To control a false value print out `"Friends are few and far between."`.
 
-5a. Find someone who has traveled to a place you have.
-5b. Write a conditional statement that prints out `"_____ is my friend because we've both been to _____."`
+5a. Find someone who has traveled to a place you have.<br>
+5b. Write a conditional statement that prints out `"_____ is my friend because we've both been to _____."`<br>
 5c. To control a false value print out `"I walk the path less travelled."`.
 
-6a. Find someone who shares the same favorite food as you.
-6b. Write a conditional statement that prints out `"_____ is my friend because we both love to eat _____"`
+6a. Find someone who shares the same favorite food as you.<br>
+6b. Write a conditional statement that prints out `"_____ is my friend because we both love to eat _____"`<br>
 6c. To control a false value print out `"I don't want to be all by myself."`.
 
-7a. Find someone who has the same pet as you.
-7b. Write a conditional statement that prints out `"_____ is my friend because we both have _____."`
+7a. Find someone who has the same pet as you.<br>
+7b. Write a conditional statement that prints out `"_____ is my friend because we both have _____."`<br>
 7c. To control a false value print out `"Can I phone a friend?"`.
 
-8a. Find someone who is older than you.
-8b. Write a conditional statement that prints out `"_____ is my friend because he/she is older than me"`
+8a. Find someone who is older than you.<br>
+8b. Write a conditional statement that prints out `"_____ is my friend because he/she is older than me"`<br>
 8c. To control a false value print out `"I don't have older friends."`.
 
-9a. Find someone who is taller than you.
-9b. Write a conditional statement that prints out `"_____ is my friend because he/she is taller than me."`
+9a. Find someone who is taller than you.<br>
+9b. Write a conditional statement that prints out `"_____ is my friend because he/she is taller than me."`<br>
 9c. To control a false value print out `"It gets lonely at the top."`.
 
-10a. Find someone who's birth month number is less than or equal to your birth month number.
-10b. Write a conditional statement that prints out `"_____ is my friend because their birth month number is less than or equal to mine."`
+10a. Find someone who's birth month number is less than or equal to your birth month number.<br>
+10b. Write a conditional statement that prints out `"_____ is my friend because their birth month number is less than or equal to mine."`<br>
 10c. To control a false value print out `"Woot! It's a one person party up in here."`.
