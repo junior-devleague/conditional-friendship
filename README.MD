@@ -2,7 +2,9 @@
 
 ## Objective
 
-Students will learn how to communicate and think conditionally. Students will learn how to write control flow statements.
+* Students will learn how to communicate and think conditionally.
+* Students will learn how to gather data and turn that data into code.
+* Students will learn how to write control flow statements.
 
 ## Rules
 
